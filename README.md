@@ -1,6 +1,6 @@
-# pandas-challenge: Heroes of Pymoli
+# Heroes of Pymoli
 
-Included in this report is a Python (Pandas) analysis of transaction data from a fantasy game called "Heroes of Pymoli". Although the game is free to play, players have the option of purchasing additional items.
+Included in this report is a Python Pandas analysis of transaction data from a fantasy game called "Heroes of Pymoli". Although the game is free to play, players have the option of purchasing additional items.
 
 This data included 576 individual Heroes of Pymoli players. There are 179 unique items, with an average price of $3.05. This was calculated using 780 transactions that together generated $2379.77 total revenue.
 
